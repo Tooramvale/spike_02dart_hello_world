@@ -2,7 +2,7 @@ Spike Outcomes
 ==================
 **Spike:** Spike_No 02
 
-**Title:** "Hello World" in Eiffel
+**Title:** "Hello World" in Dart
 
 **Author:** Jane / John Doe, john.doe@example.com
 
@@ -10,12 +10,12 @@ Spike Outcomes
 _#### Summarise from the spike plan goal_
 _#### Besides this report, what else was created ie UML, code, reports_
 - Code see /spikes/spike04/
-- Short Report titled "'Hello World' in Eiffel"
+- Short Report titled "'Hello World' in Dart"
 - ...
 
 ## Technologies, Tools, and Resources used:
 _#### List of information needed by someone trying to reproduce this work_
-- Eiffel
+- Dart
 - Internet Browser; Google Chrome, FireFox, Safari
 - Git
 - Text Editor: NotePad++ / Sublime Text 2
